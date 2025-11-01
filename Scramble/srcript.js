@@ -6,5 +6,6 @@ gsap.to("p", {
         revealDelay:0.3,
         speed:1,
         tweenLength:false
+        ,newClass:"text-color"
     }
 })

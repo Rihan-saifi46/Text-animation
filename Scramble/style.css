@@ -9,3 +9,7 @@ p{
     font-size: 6vw; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  font-weight: 400;
 }
+.text-color {
+    color: yellowgreen;
+    text-shadow: 0 0 2px white;
+}
