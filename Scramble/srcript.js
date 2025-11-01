@@ -1,4 +1,7 @@
-gsap.to("h1", {
+gsap.to("p", {
     duration:3,
-    scrambleText:"scramble text"
+    scrambleText:{
+        text:"GSAP Scramble text",
+        chars:"upperCase"
+    }
 })
