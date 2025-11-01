@@ -11,5 +11,5 @@ p{
 }
 .text-color {
     color: yellowgreen;
-    text-shadow: 0 0 2px white;
+    text-shadow: 0 2px 4px white;
 }
