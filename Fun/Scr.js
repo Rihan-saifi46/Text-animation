@@ -1,7 +1,7 @@
 gsap.registerPlugin(SplitText)
 
 let split = SplitText.create(".text",{
-  type:"words"
+  type:"words , chars , lines"
 })
 
 gsap.from(split.words,{
