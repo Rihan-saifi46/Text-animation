@@ -6,5 +6,6 @@ let split = SplitText.create(".text",{
 
 gsap.from(split.words,{
     y:100,
-    autoAlpha:0,stagger:0.05
+    autoAlpha:0,
+    stagger:0.05
 })
